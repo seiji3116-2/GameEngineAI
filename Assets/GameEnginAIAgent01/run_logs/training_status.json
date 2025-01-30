@@ -1,0 +1,29 @@
+{
+    "GameEnginAI": {
+        "checkpoints": [
+            {
+                "steps": 381594,
+                "file_path": "results\\GameEnginAIAgent01\\GameEnginAI\\GameEnginAI-381594.onnx",
+                "reward": 0.7798561154724025,
+                "creation_time": 1738252149.3806462,
+                "auxillary_file_paths": [
+                    "results\\GameEnginAIAgent01\\GameEnginAI\\GameEnginAI-381594.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 381594,
+            "file_path": "results\\GameEnginAIAgent01\\GameEnginAI.onnx",
+            "reward": 0.7798561154724025,
+            "creation_time": 1738252149.3806462,
+            "auxillary_file_paths": [
+                "results\\GameEnginAIAgent01\\GameEnginAI\\GameEnginAI-381594.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
